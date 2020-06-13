@@ -1,3 +1,5 @@
+#include <iostream>
+
 #include <SDL_ttf.h>
 
 #include "common.h"
@@ -26,7 +28,7 @@ const int SHOP_ITEM_MOVE_STEP = 6;
 
 // timing
 const Uint32 SHOP_CLOCK_TICK_TIME = 100;	// in milliseconds
-const int SHOP_MODE_CHANGE_TICKS = 100;
+const int SHOP_MODE_CHANGE_TICKS = 15;
 const int SHOP_ITEM_MOVE_TICKS = 5;
 const int SHOP_SHRINK_TICKS = 10;
 
