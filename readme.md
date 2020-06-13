@@ -13,6 +13,8 @@ The project makes use of [SDL 1.2](https://www.libsdl.org/download-1.2.php) spec
 * [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/release-1.2.html)
 * [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/release-1.2.html)
 
+![image](assets/images/screenshots/title.png) ![image](assets/images/screenshots/work.png)
+
 ## Readme Archaeology
 
 The following notes were written when the project was completed in 2010, and were mostly for my own benefit. I include them here in the interest of preservation.
