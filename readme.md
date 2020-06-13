@@ -37,6 +37,11 @@ This is a one-button game. The keys Z, X, or Space can be used as "the button," 
   * Compiled "Multithreaded DLL" (/MD)
   * [Obsolete] Linker ignores these libraries: libc.lib, libcmt.lib, libcd.lib, libcmtd.lib, msvcrtd.lib
   
+## Links
+* Android version on [Google Play](https://play.google.com/store/apps/details?id=org.newton64.TheAmericanDream).
+* PC version on [itch.io](https://nicknicknicknick.itch.io/the-american-dream-awndo).
+* The [TIGSource thread](https://forums.tigsource.com/index.php?topic=11158.0).
+  
 ## History
 * 10 March 2010 – Initial release (GAMMA IV)
 * 7 September 2011 – Eastern Bloc Housewarming Party
