@@ -7,11 +7,18 @@ It wasn't selected, but it was later shown in Montréal, at Eastern Bloc's *[Hou
 
 An Android version is [also available](https://play.google.com/store/apps/details?id=org.newton64.TheAmericanDream), which had been ported to the [Orx engine](http://orx-project.org/) – though I've lost the code to both that one and a potential Unity port.
 
-The game requires the SDL, SDL_image, SDL_mixer, & SDL_ttf libraries to compile (I used SDL 1.2).
+### A note on the code
+The project makes use of [SDL 1.2](https://www.libsdl.org/download-1.2.php) specifically, along with the following related libraries:
+* [SDL_image](https://www.libsdl.org/projects/SDL_image/release-1.2.html)
+* [SDL_mixer](https://www.libsdl.org/projects/SDL_mixer/release-1.2.html)
+* [SDL_ttf](https://www.libsdl.org/projects/SDL_ttf/release-1.2.html)
 
 ## Readme Archaeology
 
 The following notes were written when the project was completed in 2010, and were mostly for my own benefit. I include them here in the interest of preservation.
+
+### CONTROLS
+This is a one-button game. The keys Z, X, or Space can be used as "the button," as well as the A button on an Xbox controller (or equivalent). Press the button to make a selection and advance dialogue. Press or hold the button in each of the minigames – tutorials are available for each.
 
 ### PROGRAMMING NOTES
 * IMG_Load() should always be followed up by a SDL_DisplayFormat()!
