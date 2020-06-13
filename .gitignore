@@ -1,0 +1,10 @@
+# game-generated
+awndo.log
+
+# Visual Studio
+.vs/*
+*sln
+*vcxproj*
+Debug/*
+Release/*
+obj/*
