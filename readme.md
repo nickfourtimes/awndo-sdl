@@ -37,3 +37,8 @@ This is a one-button game. The keys Z, X, or Space can be used as "the button," 
   * Compiled "Multithreaded DLL" (/MD)
   * [Obsolete] Linker ignores these libraries: libc.lib, libcmt.lib, libcd.lib, libcmtd.lib, msvcrtd.lib
   
+## History
+* 10 March 2010 – Initial release (GAMMA IV)
+* 7 September 2011 – Eastern Bloc Housewarming Party
+* 29 November 2011 – Android app release
+* 12 June 2020 – GitHub public release
